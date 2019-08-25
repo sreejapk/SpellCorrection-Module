@@ -1,4 +1,3 @@
-# Boring preliminaries
 from __future__ import division
 import re
 import math
